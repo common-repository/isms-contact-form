@@ -1,0 +1,60 @@
+.isms-bg-success {
+    background-color: #28a745!important;
+    color:#fff;
+}
+
+.isms-bg-danger {
+    background-color: #dc3545!important;
+    color:#fff;
+}
+.captcha-input {
+    width: 300px !important
+}
+
+.isms-response-holder {
+    padding: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+#isms_reg_otp {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.iti {
+    width: 100%;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#mobilefield {
+     padding-left: 97px !important
+}
+.isms-contact-form label, .isms-contact-form input, .isms-contact-form textarea {
+	width: 100%;
+}
+
+.isms-contact-form input[type=checkbox], input[type=radio] {
+    width: 16px;
+	float:left;
+}
+label.checkandradiolabel {
+    width: 97%;
+    float: left;
+    margin-top: 8px;
+}
+.isms-contact-form .form-group {
+    width: 100%;
+}
+#session-captcha {
+    outline:unset;
+}
+input#session-captcha {
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 1rem;
+}
